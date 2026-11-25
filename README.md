@@ -1,4 +1,4 @@
-# Athiri · Cabina cosmetológica
+# Élite Spa · Cabina cosmetológica
 
 Catálogo digital de servicios: faciales, tratamientos avanzados, corporales, rituales, políticas y contacto (WhatsApp, Messenger, Facebook y ubicación).
 
